@@ -1,6 +1,6 @@
 # webpack rails example
 
-https://webpacktest-rails.herokuapp.com/
+https://webpack-rails-example.herokuapp.com/
 
 ## Requirements
 
